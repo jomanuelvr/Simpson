@@ -1,3 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/homer-simpson-revised');
+
+
+.simpsonfont {
+    font-family: 'Homer Simpson Revised', sans-serif;
+    font-size: 50px;
+  }
 .fondoBody {
     background: rgb(122,178,212);
 background: linear-gradient(90deg, rgba(122,178,212,1) 9%, rgba(200,162,227,1) 96%);

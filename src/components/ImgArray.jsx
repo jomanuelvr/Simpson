@@ -8,7 +8,7 @@ const ImageData = () => {
       {
         characterName: 'Homero Simpson',
         imageUrl: 'src/images/homero.png',
-        phrase: 'A la grande le puse Cuca'
+        phrase: 'A la grande le puse Cuca.'
       },
       {
         characterName: 'Maggie Simpson',
