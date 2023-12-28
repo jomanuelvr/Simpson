@@ -11,13 +11,13 @@ const CharacterCard = ({ randomData, onCardSelect, handleButtonClick }) => {
       <img className="imgCharacters" src={randomData?.imageUrl} alt="Imagen del personaje" />
       <div className="">
         <p className="txFrases">{randomData?.phrase}</p>
-      </div>
-      <div className="text-center ">
+      </div>     
+    </div>
+     <div className="text-center ">
         <Button variant="warning" className="btnAjust" onClick={handleButtonClick}>
           Obtener frase
         </Button>
       </div>
-    </div>
   );
 };
 
