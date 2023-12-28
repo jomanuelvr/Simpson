@@ -21,9 +21,8 @@ background: linear-gradient(90deg, rgba(122,178,212,1) 9%, rgba(200,162,227,1) 9
 }
 
 .imagenLogo {
-    max-width: 370px;
-    height: auto;
     max-width: 95%;
+    max-height: 250px;
 }
 
 .btnAjust {
