@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className='mb-5'>
-      <img src="src/images/logosimpson.png" alt="" className='img-fluid my-5 mx-auto d-block imagenLogo' />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Simpsons_logo_-_Yellow.svg" alt="" className='img-fluid my-5 mx-auto d-block imagenLogo' />
       <div className="container">
         <CharacterCard
           randomData={randomData}
