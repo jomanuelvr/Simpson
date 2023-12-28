@@ -25,7 +25,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className='mb-5'>
       <img src="src/images/logosimpson.png" alt="" className='img-fluid my-5 mx-auto d-block imagenLogo' />
       <div className="container">
         <CharacterCard
